@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Parte5_Arrays_Arquivos_RecursosAvancados\" />
-    <Folder Include="Parte4_POO\" />
-    <Folder Include="Parte3_ClassesObjetos\" />
-  </ItemGroup>
-
 </Project>

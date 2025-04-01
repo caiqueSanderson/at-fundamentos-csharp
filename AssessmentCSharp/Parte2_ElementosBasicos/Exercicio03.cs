@@ -25,7 +25,7 @@ namespace AssessmentCSharp.Parte2_ElementosBasicos
             Console.Write("Insira a operação desejada: ");
             string opcao = Console.ReadLine();
 
-            switch (opcao.Trim()) 
+            switch (opcao.Trim())
             {
                 case "1":
                     Console.WriteLine($"{primeiroNumero} + {segundoNumero} = {primeiroNumero + segundoNumero}");

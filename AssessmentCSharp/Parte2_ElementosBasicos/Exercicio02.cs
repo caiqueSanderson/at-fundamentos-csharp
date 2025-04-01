@@ -16,7 +16,7 @@ namespace AssessmentCSharp.Parte2_ElementosBasicos
             string nome = Console.ReadLine();
             char[] nomeArray = nome.ToCharArray();
 
-            for(int i = 0; i < nomeArray.Length; i++)
+            for (int i = 0; i < nomeArray.Length; i++)
             {
                 if (char.IsLetter(nomeArray[i]))
                 {
